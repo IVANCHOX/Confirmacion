@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.cabezera{
+	background: linear-gradient(to right,#28a745,#007bff)
+}
+.encabezado1{
+    font-family: 'Raleway', sans-serif;
+}
+
+.bienvenida{
+    font-family: 'Raleway', sans-serif;
+    font-size:125%; 
+}
+
+.boton {
+    border: none;
+    border-radius: 1%;
+    width: 10%;
+    background: #007bff;
+    height: 2em;
+    border-radius: 4% 5% 4% 5%;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 45%;
+    margin-top: 15%;
+    font-size: 86%;
+}
